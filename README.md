@@ -22,8 +22,11 @@
 The application uses this API endpoint: https://66a3552644aa63704580ce6b.mockapi.io/comments
 
 To log in to the application, use the email and password of any user from the provided API. 
+
 For example:
-Email: America_Stroman@gmail.com
+
+Email: America_Stroman@gmail.com  
+
 Password: D9kL_eNP_YLJKHp
 
 

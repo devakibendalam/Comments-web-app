@@ -1,8 +1,34 @@
-# React + Vite
+# User Comment Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo: https://tubular-buttercream-ed0af4.netlify.app/
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design for both desktop and mobile views
+- Comment list display with search functionality
+- Individual chat message display
+- Dark and light mode toggle
+- Integration with mockapi.io to get a list of comments.
+
+## Technologies Used
+
+- ReactJS
+- Vite (for build tooling and development server)
+- Redux-tool-kit for state management
+- Material-UI (MUI)
+
+## API Integration
+
+The application uses this API endpoint: https://66a3552644aa63704580ce6b.mockapi.io/comments
+
+
+## Running the Application
+
+To run the application in development mode:
+npm run dev
+
+This will start the Vite development server. Open your browser and navigate to the URL provided in the console (usually http://localhost:5173).
+
+## Deployment
+
+This project is deployed on Netlify.

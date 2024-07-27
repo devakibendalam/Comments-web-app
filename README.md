@@ -1,6 +1,6 @@
 # User Comment Web App
 
-## Live Demo: https://tubular-buttercream-ed0af4.netlify.app/
+## Live Demo: https://user-comments-web-app.netlify.app/
 
 ## Features
 
